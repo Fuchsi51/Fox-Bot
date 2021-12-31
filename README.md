@@ -1,3 +1,2 @@
 # Fox-Bot
-ACHTUNG Der Sours Code ist nicht für die Öfentlichkeit bestimmt.
-diese Seite wird nur für Bugs oder Support benutzt.
+Das ist die GitHub Seite vom FoxBot. Hier werden neue Funktionen angekündigt und getestet.
